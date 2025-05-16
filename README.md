@@ -1,4 +1,4 @@
-# Bill-Parser
+# SmartBillScaner
 🧾 Billing Receipt to Text Converter using OCR & Streamlit
 This project is a Streamlit-based web application that allows users to upload multiple billing receipts (in image or PDF format) and automatically extract key information such as:
 
